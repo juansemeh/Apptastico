@@ -119,6 +119,7 @@ header section div ul a:nth-child(1) img {
     height: auto;
     padding: 3vh 0;
     background-color: #edecec;
+    gap: 5vw;
     display: flex;
     justify-content: space-evenly;
     border-bottom: #e6e7e7;
@@ -473,6 +474,7 @@ footer div ul {
 
     header section article p {
         width: 100%;
+        text-align: center;
     }
 
     header section div ul a:nth-child(1) img {
